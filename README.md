@@ -69,7 +69,7 @@ I want to continue learning flexbox and box-shadow. Also learning about how to m
 
 ### Useful resources
 
-- [Example resource 1](w3schools.com/) - It's a great site containing resourses for HTML, CSS and JS.
+- [W3S Schools](w3schools.com/) - It's a great site containing resourses for HTML, CSS and JS.
 
 ## Author
 
